@@ -21,3 +21,8 @@
 |スライド|著者|最終更新日|
 |:---|:---|:---|
 |[認証にまつわるセキュリティの新常識](https://speakerdeck.com/kthrtty/ren-zheng-nimatuwarusekiyuriteifalsexin-chang-shi)|Tatsuya Katsuhara|2018/11/27|
+
+# Cheat Sheet
+|記事|発行元|最終更新日|
+|:---|:---|:---|
+|[OWASP Session Management Cheat Sheet](https://www.owasp.org/index.php/Session_Management_Cheat_Sheet)|[OWASP](https://www.owasp.org)|随時更新|
