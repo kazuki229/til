@@ -22,6 +22,7 @@
 |:---|:---|:---|
 |[認証にまつわるセキュリティの新常識](https://speakerdeck.com/kthrtty/ren-zheng-nimatuwarusekiyuriteifalsexin-chang-shi)|Tatsuya Katsuhara|2018/11/27|
 |[組織におけるアイデンティティ管理の基本的な考え方](https://www.slideshare.net/naohiro.fujie/ss-131091269)|Naohiro Fujie|2019/02/09|
+|[サイバー空間上の信頼フレームワークとパーソナルデータ経済](https://www.slideshare.net/nat_sakimura/ss-10499356)|Nat Sakimura|2011/12/07|
 
 # Cheat Sheet
 |記事|発行元|最終更新日|
