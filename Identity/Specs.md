@@ -30,3 +30,10 @@
 |:---|:---|:---|
 |[OWASP Session Management Cheat Sheet](https://www.owasp.org/index.php/Session_Management_Cheat_Sheet)|[OWASP](https://www.owasp.org)|随時更新|
 
+
+# Movies
+|動画|発表者|最終更新日|
+|:---|:---|:---|
+|[Intertrust X LINE Security Sping Summit 2019](https://www.youtube.com/playlist?list=PL6Bi8wZB72dZ7gvwaZrh8Odnckv58-svw)|-|2019/08/09|
+|[Introduction to Identity Part1](https://www.youtube.com/watch?v=T5w1EXqMqR0)|Ian Glazer|2019/08/16|
+
