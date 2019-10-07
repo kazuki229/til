@@ -16,6 +16,7 @@
 |[アイデンティティシステムのデザイン時に考慮すべき国際規格](https://www.sakimura.org/2011/05/1111/)|Nat Sakimura|2011/05/31|
 |[INTERNET IDENTITY年表](http://www.sakimura.org/misc/internet_identity_history/)|Nat Sakimura|2015/07/08|
 |[非技術者のためのデジタル・アイデンティティ入門](https://www.sakimura.org/2011/06/1124/)|Nat Sakimura|2011/06/21|
+|[2019-07 LINE x Intertrust Security Summit 2019, Spring レポート](https://engineering.linecorp.com/ja/blog/line-x-intertrust-security-summit-2019-spring-report/)|Naohisa Ichihara|2019/10/04|
 
 # Slides
 |スライド|著者|最終更新日|
