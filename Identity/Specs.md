@@ -10,6 +10,11 @@
 |[アイデンティティ管理技術解説](https://www.ipa.go.jp/security/idm/)|[IPA](https://www.ipa.go.jp)|2013/01/29|
 |[本人認証技術導入ガイドライン【基本知識編】](https://www.jicsap.com/public/guidelines.htm)|[JICSAP](http://jicsap.com/)|2019/10/24|
 
+# Papers
+|タイトル|著者|発行日時|
+|:---|:---|:---|
+|Testing Metrics for Password Creation Policies by Attacking Large Sets of Revealed Passwords|Weir, Matt and Aggarwal, Sudhir and Collins, Michael and Stern, Henry|2010|
+
 # Personal Articles
 |記事|著者|最終更新日|
 |:---|:---|:---|
