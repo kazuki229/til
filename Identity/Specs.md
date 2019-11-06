@@ -9,7 +9,7 @@
 |:---|:---|:---|
 |[アイデンティティ管理技術解説](https://www.ipa.go.jp/security/idm/)|[IPA](https://www.ipa.go.jp)|2013/01/29|
 |[本人認証技術導入ガイドライン【基本知識編】](https://www.jicsap.com/public/guidelines.htm)|[JICSAP](http://jicsap.com/)|2019/10/24|
-|[デジタルアイデンティティ 〜自己主権型／分散型アイデンティティ〜](https://www.nri.com/-/media/Corporate/jp/Files/PDF/service/ips/technology_1.pdf?fbclid=IwAR1LCLHJqy_noN1fQV2DdIVk2aO-KRU7u3lnq5AXxsx38g9HoV6Yoe7YKW0)|NRI セキュアテクノロジーズ株式会社 株式会社ジェーシービー|2019/11|
+|[デジタルアイデンティティ 〜自己主権型／分散型アイデンティティ〜](https://www.nri.com/-/media/Corporate/jp/Files/PDF/service/ips/technology_1.pdf)|NRI セキュアテクノロジーズ株式会社 株式会社ジェーシービー|2019/11|
 
 # Papers
 |タイトル|著者|発行日時|
