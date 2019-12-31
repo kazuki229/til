@@ -24,6 +24,7 @@
 |[INTERNET IDENTITY年表](http://www.sakimura.org/misc/internet_identity_history/)|Nat Sakimura|2015/07/08|
 |[非技術者のためのデジタル・アイデンティティ入門](https://www.sakimura.org/2011/06/1124/)|Nat Sakimura|2011/06/21|
 |[2019-07 LINE x Intertrust Security Summit 2019, Spring レポート](https://engineering.linecorp.com/ja/blog/line-x-intertrust-security-summit-2019-spring-report/)|Naohisa Ichihara|2019/10/04|
+|[Moving On from OAuth 2: A Proposal](https://medium.com/@justinsecurity/moving-on-from-oauth-2-629a00133ade)|Justin Richer|2018/10/23|
 
 # Slides
 |スライド|著者|最終更新日|
@@ -45,4 +46,4 @@
 |:---|:---|:---|
 |[Intertrust X LINE Security Sping Summit 2019](https://www.youtube.com/playlist?list=PL6Bi8wZB72dZ7gvwaZrh8Odnckv58-svw)|-|2019/08/09|
 |[Introduction to Identity Part1](https://www.youtube.com/watch?v=T5w1EXqMqR0)|Ian Glazer|2019/08/16|
-
+|[What's Wrong with OAuth2?](https://www.youtube.com/watch?v=OLwz7pIXOWQ)|Justin Richer|2019/07/23|
