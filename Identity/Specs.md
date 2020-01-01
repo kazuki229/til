@@ -28,6 +28,7 @@
 |[The Case for OAuth 3.0](https://medium.com/@justinsecurity/the-case-for-oauth-3-0-5c7537e3f9c3)|Justin Richer|2019/11/26|
 |[The Case for OAuth 3.0: Why Now?](https://medium.com/@justinsecurity/the-case-for-oauth-3-0-why-now-a15ffdc77fd5)|Justin Richer|2019/12/07|
 |[The Case for OAuth 3.0: Why a new working group?](https://medium.com/@justinsecurity/the-case-for-oauth-3-0-why-a-new-working-group-d6229ba8e36)|Justin Richer|2019/12/21|
+|[It's Time for OAuth 2.1](https://aaronparecki.com/2019/12/12/21/its-time-for-oauth-2-dot-1)|Aaron Parecki|2019/12/12|
 
 # Slides
 |スライド|著者|最終更新日|
