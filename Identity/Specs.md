@@ -25,6 +25,9 @@
 |[非技術者のためのデジタル・アイデンティティ入門](https://www.sakimura.org/2011/06/1124/)|Nat Sakimura|2011/06/21|
 |[2019-07 LINE x Intertrust Security Summit 2019, Spring レポート](https://engineering.linecorp.com/ja/blog/line-x-intertrust-security-summit-2019-spring-report/)|Naohisa Ichihara|2019/10/04|
 |[Moving On from OAuth 2: A Proposal](https://medium.com/@justinsecurity/moving-on-from-oauth-2-629a00133ade)|Justin Richer|2018/10/23|
+|[The Case for OAuth 3.0](https://medium.com/@justinsecurity/the-case-for-oauth-3-0-5c7537e3f9c3)|Justin Richer|2019/11/26|
+|[The Case for OAuth 3.0: Why Now?](https://medium.com/@justinsecurity/the-case-for-oauth-3-0-why-now-a15ffdc77fd5)|Justin Richer|2019/12/07|
+|[The Case for OAuth 3.0: Why a new working group?](https://medium.com/@justinsecurity/the-case-for-oauth-3-0-why-a-new-working-group-d6229ba8e36)|Justin Richer|2019/12/21|
 
 # Slides
 |スライド|著者|最終更新日|
