@@ -38,7 +38,7 @@
 |[サイバー空間上の信頼フレームワークとパーソナルデータ経済](https://www.slideshare.net/nat_sakimura/ss-10499356)|Nat Sakimura|2011/12/07|
 |[車輪は丸くなったか？~デジタル・アイデンティティの標準化動向とそのゴール](https://www.slideshare.net/nat_sakimura/ss-61772181)|Nat Sakimura|2014|
 |[生体認証の原理と課題](http://www.mims.meiji.ac.jp/education/project/suuriB/2014.files/amsB20140802Ohki.pdf)|Tetsushi Ohki|2014/08/02|
-|[OAuth, Transactional Authorization @ IETF106](https://speakerdeck.com/sylph01/oauth-transactional-authorization-at-ietf106)|Ryo Kajiwara|2019/01/09|
+|[OAuth, Transactional Authorization @ IETF106](https://speakerdeck.com/sylph01/oauth-transactional-authorization-at-ietf106)|Ryo Kajiwara|2020/01/09|
 
 # Cheat Sheet
 |記事|発行元|最終更新日|
