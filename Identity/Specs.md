@@ -29,6 +29,7 @@
 |[The Case for OAuth 3.0: Why Now?](https://medium.com/@justinsecurity/the-case-for-oauth-3-0-why-now-a15ffdc77fd5)|Justin Richer|2019/12/07|
 |[The Case for OAuth 3.0: Why a new working group?](https://medium.com/@justinsecurity/the-case-for-oauth-3-0-why-a-new-working-group-d6229ba8e36)|Justin Richer|2019/12/21|
 |[It's Time for OAuth 2.1](https://aaronparecki.com/2019/12/12/21/its-time-for-oauth-2-dot-1)|Aaron Parecki|2019/12/12|
+|[OAuth 2.1: How Many RFCs Does it Take to Change a Lightbulb?](https://developer.okta.com/blog/2019/12/13/oauth-2-1-how-many-rfcs)|Lee McGovern|2019/12/13|
 
 # Slides
 |スライド|著者|最終更新日|
